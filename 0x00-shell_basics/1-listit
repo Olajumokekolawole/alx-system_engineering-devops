@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -F
+./1-listit
